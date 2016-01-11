@@ -1,4 +1,4 @@
-### Installation
+### CPU-Processor-Simulator
 ![Logo](https://cloud.githubusercontent.com/assets/5080310/13196815/ad00f8ea-d7ff-11e5-8322-57fb8b7a47f4.png)
 
 A Simple 5-stage CPU pipeline simulator using Logisim. 
