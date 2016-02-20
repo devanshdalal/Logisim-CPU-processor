@@ -1,4 +1,5 @@
 ### Installation
+[Pocessor](https://cloud.githubusercontent.com/assets/5080310/13196815/ad00f8ea-d7ff-11e5-8322-57fb8b7a47f4.png)
 
 A Simple 5-stage CPU pipeline simulator using Logisim. 
 
@@ -34,11 +35,19 @@ Ramanujam number
 TODO: Write history -->
 
 
-
 ## Credits
 
 Devansh Dalal
 Aashish Goyal
+
+### Screenshots
+
+[![](https://cloud.githubusercontent.com/assets/5080310/13196812/acac3648-d7ff-11e5-8a75-cbcaf2fc58bb.png)](https://cloud.githubusercontent.com/assets/5080310/13196812/acac3648-d7ff-11e5-8a75-cbcaf2fc58bb.png)
+[![](https://cloud.githubusercontent.com/assets/5080310/13196813/acdb1472-d7ff-11e5-8847-8c69193eae77.png)](https://cloud.githubusercontent.com/assets/5080310/13196813/acdb1472-d7ff-11e5-8847-8c69193eae77.png)
+[![](https://cloud.githubusercontent.com/assets/5080310/13196814/acff41c6-d7ff-11e5-880d-e6ab395af0e4.png)](https://cloud.githubusercontent.com/assets/5080310/13196814/acff41c6-d7ff-11e5-880d-e6ab395af0e4.png)
+[![](https://cloud.githubusercontent.com/assets/5080310/13196817/ad034d66-d7ff-11e5-8dc5-b3e859f58253.png)](https://cloud.githubusercontent.com/assets/5080310/13196817/ad034d66-d7ff-11e5-8dc5-b3e859f58253.png)
+[![](https://cloud.githubusercontent.com/assets/5080310/13196818/ad043c58-d7ff-11e5-9b29-24b613ecb3fe.png)](https://cloud.githubusercontent.com/assets/5080310/13196818/ad043c58-d7ff-11e5-9b29-24b613ecb3fe.png)
+
 
 <!-- ## License
 TODO: Write license -->
