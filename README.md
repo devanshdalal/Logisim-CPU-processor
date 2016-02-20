@@ -17,7 +17,8 @@ To run the programs first convert their instructions in integers and then load t
 
 There are some custum programs already present in the project directory.
 ```
-
+Factorial recursive program
+Ramanujam number
 ```
 
 ## Contributing
