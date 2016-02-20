@@ -38,6 +38,7 @@ TODO: Write history -->
 ## Credits
 
 Devansh Dalal
+
 Aashish Goyal
 
 ### Screenshots
